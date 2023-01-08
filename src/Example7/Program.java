@@ -1,7 +1,5 @@
-package Example7dfgdfgfgdfg;
-
+package Example7;
 public class Program {
-
    public static int[] mas()
     {
         char [] a ={ 'a', 'b', 'c', 'd', 'e', 'f', 'g'};
@@ -10,6 +8,7 @@ public class Program {
         for(int i = 0; i < dlina; i++)
         {
             num[i] = a[i];
+            System.out.println(num[i]);
         }
         return num;
 

@@ -1,7 +1,7 @@
-package TIMUS.SGL;
+package TIMUS.Velosipednie_codi;
 import java.util.Scanner;
 
-public class sdfs {
+public class Cod {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int code1 = in.nextInt();

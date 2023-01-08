@@ -1,6 +1,6 @@
-package Example5RECURS;
+package Example5.Example5RECURS;
 
-import static Example5RECURS.Program.*;
+import static Example5.Example5RECURS.Program.*;
 public class Main {
     public static void main(String[] args) {
         {

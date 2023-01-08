@@ -1,11 +1,6 @@
-package Example7dfgdfgfgdfg;
-
-
-import static Example7dfgdfgfgdfg.Program.*;
+package Example7;
 public class Main {
     public static void main(String[] args) {
-
-
         {
-            System.out.println(mas());
+            Example7.Program.mas();
         }}}

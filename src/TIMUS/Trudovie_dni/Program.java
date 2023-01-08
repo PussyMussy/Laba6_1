@@ -1,8 +1,8 @@
-package TIMUS.dsff;
+package TIMUS.Trudovie_dni;
 
 import java.util.Scanner;
 
-public class sadasd {
+public class Program {
         public static void main(String[] args) {
             Scanner in = new Scanner(System.in);
             int n = in.nextInt();

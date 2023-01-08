@@ -1,4 +1,4 @@
-package Example10;
+package Example8;
 
 public class Program {
     // Метод для вычисления среднего арифметического элементов в массиве:

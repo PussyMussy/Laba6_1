@@ -1,4 +1,4 @@
-package Example5RECURS;
+package Example5.Example5RECURS;
 
 public class Program {
     static int foo(int n)

@@ -1,9 +1,9 @@
-package TIMUS;
+package TIMUS.Trudnosti_Locali;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import static TIMUS.Program.*;
+import static TIMUS.Trudnosti_Locali.Program.*;
 public class Trudnosti_localisatii {
     public static void main(String str[]) throws IOException {
         BufferedReader consoleReader = new BufferedReader(new InputStreamReader(System.in));

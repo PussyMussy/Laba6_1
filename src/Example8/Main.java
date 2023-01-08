@@ -1,5 +1,5 @@
-package Example10;
-import static Example10.Program.*;
+package Example8;
+import static Example8.Program.*;
 
 public class Main {
     public static void main(String[] args) {

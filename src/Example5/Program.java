@@ -1,17 +1,11 @@
 package Example5;
 
-public static class foo {
-    int n=4;
+public class Program {
+    static int foo(int n)
     {
-        if (n <= 1)
-            return n;
-        else
-        {
-            int result = 0;
-            for (int i = 1; i <= n; i++)
-                result += Convert.ToInt32(Math.Pow(i, 2));
-            return result;
-        }
-
-
+        int result = 0;
+        for (int i = 1; i <= n; i++)
+            result += (int)(Math.pow(i, 2));
+        return result;
+    }
 }

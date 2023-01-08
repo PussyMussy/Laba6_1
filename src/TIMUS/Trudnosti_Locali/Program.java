@@ -1,7 +1,5 @@
-package TIMUS;
-
+package TIMUS.Trudnosti_Locali;
 public class Program {
-
     public static String getWordByNumber(int number) {
         if (number >= 1 && number <= 4)
             return "few";

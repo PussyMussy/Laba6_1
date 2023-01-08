@@ -1,4 +1,4 @@
-package Example1;
+package Example2;
 public class Program {
         private static int number=0;
         public static void numberIncriment()

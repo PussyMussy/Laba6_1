@@ -1,4 +1,4 @@
-package Example41;
+package Example4.Example41;
 public class Program {
     public static int factorial(int n)
     {
